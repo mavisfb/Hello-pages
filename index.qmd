@@ -1,8 +1,10 @@
+---
+title: "My first page"
+---
 
 ```{r}
 library(reactable)
 ```
-
 
 ```{r}
 reactable(infert)
@@ -11,6 +13,3 @@ reactable(infert)
 ```{r}
 plot(women)
 ```
-
-
-
